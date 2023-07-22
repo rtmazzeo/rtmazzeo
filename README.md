@@ -1,23 +1,17 @@
 # Sobre Mim 👀
-
-<blockquote style="color: #c9d1d9; background-color: #0d1117; padding: 10px;">
-
-<font color="red">This text is red!</font>Meu nome é Ricardo Teixeira Mazzeo, um cara apaixonado por análise de dados e ciências biológicas. Tenho 40 anos e minha trajetória acadêmica é repleta de experiências incríveis que me trouxeram até aqui.
-Na minha caminhada, tive o privilégio de me graduar em Ciências Biológicas pela Universidade Estadual Paulista Júlio de Mesquita Filho, lá em 2006. Depois disso, mergulhei ainda mais fundo nos estudos e conquistei o mestrado e doutorado em Psicobiologia pela Universidade Federal de São Paulo, em 2009.  
-</blockquote>
+>Meu nome é Ricardo Teixeira Mazzeo, um cara apaixonado por análise de dados e ciências biológicas. Tenho 40 anos e minha trajetória acadêmica é repleta de experiências incríveis que me trouxeram até aqui.
+>
+>Na minha caminhada, tive o privilégio de me graduar em Ciências Biológicas pela Universidade Estadual Paulista Júlio de Mesquita Filho, lá em 2006. Depois disso, mergulhei ainda mais fundo nos estudos e conquistei o mestrado e doutorado em Psicobiologia pela Universidade Federal de São Paulo, em 2009.  
 
 # Minha Formação 📚
-<blockquote style="color: #c9d1d9; background-color: #0d1117; padding: 10px;">
-Na área de Biologia Geral, com ênfase em Psicobiologia, eu me destaquei pesquisando sobre memória espacial, emocional e neurobiologia da memória. Foi uma época de muita descoberta e crescimento profissional, onde pude contribuir com novos conhecimentos para a área.  
-</blockquote>
-
-<blockquote style="color: #c9d1d9; background-color: #0d1117; padding: 10px;">
-Minha jornada acadêmica foi agraciada com bolsas de estudo da FAPESP e CNPq, que me proporcionaram uma formação sólida e rica em aprendizado. Ao longo do tempo, desenvolvi habilidades excepcionais em interpretar análises estatísticas e realizar análises de dados em conjuntos específicos de informações.
-Eu me sinto super à vontade criando tabelas, listas, gráficos e narrativas para comunicar os resultados das minhas análises. Inclusive, me amarro em mergulhar em grandes e pequenas séries temporais de dados, buscando sempre entender os padrões e insights escondidos por trás deles.
-</blockquote>
+>Na área de Biologia Geral, com ênfase em Psicobiologia, eu me destaquei pesquisando sobre memória espacial, emocional e neurobiologia da memória. Foi uma época de muita descoberta e crescimento profissional, onde pude contribuir com novos conhecimentos para a área.  
+>
+>Minha jornada acadêmica foi agraciada com bolsas de estudo da FAPESP e CNPq, que me proporcionaram uma formação sólida e rica em aprendizado. Ao longo do tempo, desenvolvi habilidades excepcionais em interpretar análises estatísticas e realizar análises de dados em conjuntos específicos de informações.
+>
+>Eu me sinto super à vontade criando tabelas, listas, gráficos e narrativas para comunicar os resultados das minhas análises. Inclusive, me amarro em mergulhar em grandes e pequenas séries temporais de dados, buscando sempre entender os padrões e insights escondidos por trás deles.
 
 # Amor pelos Dados 💻
-<blockquote style="color: #c9d1d9; background-color: #0d1117; padding: 10px;">
+<blockquote style="color: #c9d1d9; background-color: #0d1117; padding: 10px;"
 Meu caso de amor com a análise de dados começou durante o doutorado, quando me deparei com uma quantidade colossal de informações, muito além do que uma planilha do Excel poderia lidar. Foi aí que percebi que estava diante de algo que realmente me fascinava e decidi me aprofundar nesse universo encantador.
 Desde então, venho me dedicando e aprimorando minhas habilidades em análise de dados, buscando sempre soluções criativas e eficientes para os desafios que encontro pelo caminho.
 </blockquote>
