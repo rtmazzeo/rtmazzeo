@@ -11,17 +11,12 @@
 >Eu me sinto super à vontade criando tabelas, listas, gráficos e narrativas para comunicar os resultados das minhas análises. Inclusive, me amarro em mergulhar em grandes e pequenas séries temporais de dados, buscando sempre entender os padrões e insights escondidos por trás deles.
 
 # Amor pelos Dados 💻
-<blockquote style="color: #c9d1d9; background-color: #0d1117; padding: 10px;"
-Meu caso de amor com a análise de dados começou durante o doutorado, quando me deparei com uma quantidade colossal de informações, muito além do que uma planilha do Excel poderia lidar. Foi aí que percebi que estava diante de algo que realmente me fascinava e decidi me aprofundar nesse universo encantador.
-Desde então, venho me dedicando e aprimorando minhas habilidades em análise de dados, buscando sempre soluções criativas e eficientes para os desafios que encontro pelo caminho.
-</blockquote>
+>Meu caso de amor com a análise de dados começou durante o doutorado, quando me deparei com uma quantidade colossal de informações, muito além do que uma planilha do Excel poderia lidar. Foi aí que percebi que estava diante de algo que realmente me fascinava e decidi me aprofundar nesse universo encantador.
+>Desde então, venho me dedicando e aprimorando minhas habilidades em análise de dados, buscando sempre soluções criativas e eficientes para os desafios que encontro pelo caminho.
 
 # Conclusão 🎉
-<blockquote style="color: #c9d1d9; background-color: #0d1117; padding: 10px;">
-Essa é um pouquinho da minha trajetória, meus amigos! Sou um entusiasta pela ciência e pelos dados, e estou sempre em busca de novos projetos e oportunidades para colocar meus conhecimentos em prática.
-
-Se você tem algum projeto interessante que envolva análise de dados, não hesite em me procurar! Vamos juntos desvendar os mistérios que os dados nos reservam e fazer a diferença no mundo da ciência e além.
-</blockquote>
+>Essa é um pouquinho da minha trajetória, meus amigos! Sou um entusiasta pela ciência e pelos dados, e estou sempre em busca de novos projetos e oportunidades para colocar meus conhecimentos em prática.
+>Se você tem algum projeto interessante que envolva análise de dados, não hesite em me procurar! Vamos juntos desvendar os mistérios que os dados nos reservam e fazer a diferença no mundo da ciência e além.
 
 
 <div align="center">  
